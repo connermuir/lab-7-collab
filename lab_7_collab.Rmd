@@ -14,15 +14,27 @@ Hi partner
 Hi Conner. Here's a code chunk where you can work
 
 ```{r Conner}
+# pulling in data 
+
+library(palmerpenguins)
 
 ```
 
 Here is where I will work
 
 ```{r Russ}
+<<<<<<< HEAD
 plot(cars)
 
 2+2
+=======
+
+```
+
+Here is a chunk for Allison 
+
+```{r Allison}
+>>>>>>> adc06136df4cbbef7ab71b73870ead756cb896fd
 
 ```
 
