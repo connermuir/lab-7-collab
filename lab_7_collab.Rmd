@@ -20,6 +20,6 @@ Hi Conner. Here's a code chunk where you can work
 Here is where I will work
 
 ```{r Russ}
-
+plot(cars)
 ```
 
