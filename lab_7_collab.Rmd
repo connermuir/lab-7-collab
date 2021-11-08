@@ -14,12 +14,21 @@ Hi partner
 Hi Conner. Here's a code chunk where you can work
 
 ```{r Conner}
+# pulling in data 
+
+library(palmerpenguins)
 
 ```
 
 Here is where I will work
 
 ```{r Russ}
-plot(cars)
+
+```
+
+Here is a chunk for Allison 
+
+```{r Allison}
+
 ```
 
